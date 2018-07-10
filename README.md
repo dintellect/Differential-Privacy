@@ -44,8 +44,13 @@ accuracy and privacy. We will applying this approach in our recoomender system.
 ---------OVERVIEW-----------
 
 Application             : Recommender systems
+
 Input data              : User-item rating matrix
+
 Output data             : Prediction
+
 Challenges              : High sensitivity
+
 Solutions               : Adjust sensitivity measurement
+
 Selected mechanism      : Group large candidate set
