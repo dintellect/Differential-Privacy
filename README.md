@@ -39,6 +39,7 @@ a graph link-based recommendation algorithm and formalized the trade-off between
 accuracy and privacy. We will applying this approach in our recoomender system. 
 
 ***RESOLUTION***
+
 The process of differential privacy solves this problem by using the fact that user’s rating should be inferred from the
 entire database of users by weighing each user with their “similarity score” with the reference user. Thus user’s
 rating comes from the entire population rather than some predefined set of users. This has two advantages – first
