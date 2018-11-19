@@ -13,7 +13,7 @@ achieved by analyzing the user’s historical transaction data with various data
 or machine learning techniques, e.g. k nearest neighbor rule, the probability theory
 and matrix factorization.
 
-***Objective***
+***OBJECTIVE***
 
 The aim of the project was to solve the problem of inferring an individual’s rating, especially for the neighborhood-based methods using some background information of the individual. For example, an adversary can infer the rating history of an active user by creating fake neighbors based on background information.
 
