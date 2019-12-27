@@ -58,3 +58,9 @@ Challenges              : High sensitivity
 Solutions               : Adjust sensitivity measurement
 
 Selected mechanism      : Group large candidate set
+
+***QUICK LINKS***
+1. [data set](https://github.com/dintellect/Differential-Privacy/blob/master/Differential%20Privacy/Netdata.csv)
+2. [python code](https://github.com/dintellect/Differential-Privacy/blob/master/Differential%20Privacy/Code.py)
+3. [jupyter notebook](https://github.com/dintellect/Differential-Privacy/blob/master/Differential%20Privacy/Testing.ipynb)
+
